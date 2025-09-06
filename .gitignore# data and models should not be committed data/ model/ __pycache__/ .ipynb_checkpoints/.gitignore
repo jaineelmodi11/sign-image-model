@@ -1,0 +1,6 @@
+# data and models should not be committed
+data/
+model/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
